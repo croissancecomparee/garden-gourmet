@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Garden Gourmet",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

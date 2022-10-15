@@ -1,0 +1,8 @@
+{
+  "name": "Garden Gourmet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b6dc5858"
+}
